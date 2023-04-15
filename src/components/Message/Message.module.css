@@ -1,0 +1,16 @@
+.message,
+.message form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.message form input {
+  margin-bottom: 10px;
+  font-size: 2rem;
+  width: 98vw;
+  text-align: center;
+  font-weight: bolder;
+  border: none;
+}
