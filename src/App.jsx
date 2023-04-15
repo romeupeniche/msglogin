@@ -1,7 +1,6 @@
 import { useState } from "react";
 import styles from "./App.module.css";
 import Header from "./components/Header/Header";
-import { db } from "./firebase-config";
 import LoginForm from "./components/LoginForm/LoginForm";
 import Message from "./components/Message/Message";
 
